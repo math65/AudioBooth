@@ -12,3 +12,6 @@ Package.resolved
 .build
 Debug
 AudioBooth/Local.xcconfig
+
+# Claude Code (personnel)
+CLAUDE.local.md
